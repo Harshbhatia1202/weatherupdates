@@ -1,1 +1,1 @@
-# weatherupdates
+# weather updates app
